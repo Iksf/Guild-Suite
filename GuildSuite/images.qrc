@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Mumble Logo">images/icons/mumble.osx.png</file>
+        <file alias="Web Icon">images/icons/128px-Konqueror_4_Oxygen.png</file>
+        <file>images/images/mainscreen.png</file>
+    </qresource>
+</RCC>
