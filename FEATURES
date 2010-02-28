@@ -1,0 +1,43 @@
+What are the objectives of this project?
+
+Features:
+
+The Guild suite will be a program implemented in place of a World of Warcraft guild's Ventrilo, TeamSpeak or Mumble client. The source code will have to be tailored for the guilds requirements. It will nullify many of the requirements of a Website and VOIP server. It will also remove the problem of a file hosting server if the guild has one, and if not, it will add the possibility of quick and easy file sharing. This will be useful in cases such as distributing required addons.
+
+Voice Communications:
+
+Voice communications will be run within the client via Mumble. This will use the latest version of Mumble, currently 1.2.2. The Client will be configured to automaticly connect to the guilds server, eliminating the messy setup procedure. A working Mumble server will be required for this to function. However it does not have to be hosted upon the same server as any of the other features.
+
+Website:
+
+The website will be handled in two ways. Either the guild may choose to host their own website. They will be able to then optimise it for the client. The client will include a basic QTWebKit browser to view this. It may also use a premade website, such as guildomatic.
+
+Announcements:
+
+A message of the day may be pulled from a simple server. This will update every time the client is opened
+
+Possible Features
+
+These features may not be developed as part of the core package. Also they address smaller user bases, so not all guilds will use them.
+
+Messenger:
+
+The client may include a inguild messenger, similar to MSN. It may also be able to connect to MSN if wished. However it will primarily be used as an alternitave to a shoutbox. This may manifest itself as a UI improvement of Mumble's built in text messenger
+
+File Server:
+
+Guild authorities can use a file server to distribute files, specificly addons but also perhaps screenshots etc.
+
+Possible other features.
+
+Compatibility:
+
+This software will be built upon QT4. It will be compatible with:
+Windows XP or Greater
+Linux with QT4
+Mac OS X 10.4 or greater
+FreeBSD with QT4
+Solaris/OpenSolaris with QT4
+
+As the QT4 toolkit is platform independant other platforms not listed above may be compatible. 
+
